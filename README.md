@@ -1,2 +1,3 @@
-# UCDavis-SQL-for-Data-Science
-Project for "SQL for Data Science" course by : UC Davis in coursera.
+# UC Davis - SQL for Data Science
+I'm finished this course in `Septermber 2024` But this repository for the final project of this course.
+
