@@ -7,7 +7,7 @@ Follow `Final Project Instructions with Step-by-Step Images.pdf` step by step to
 ## Course Info
 SQL for Data Science is online-course authorized by University of California, Davis and offered
 through Coursera. The course is part from **Learn SQL Basics for Data Science Specialization**.
-![Image](https://www.thecollegetour.com/wp-content/uploads/2021/02/UCDavis-Logo-5x3-1.jpg)
+<img src="https://www.thecollegetour.com/wp-content/uploads/2021/02/UCDavis-Logo-5x3-1.jpg" width="450px" />
 
 [Course link](https://www.coursera.org/learn/sql-for-data-science)
 
